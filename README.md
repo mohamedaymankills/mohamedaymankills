@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ayman</h1>
-<h3 align="center">🚀 Embedded Software Engineer | Linux Enthusiast | Open Source Contributor 🔧 Skilled in C, Linux System Programming, Yocto, and Multi-threading 🛠️ Currently working on multi-threading programming course 🌱 Exploring OpenBSD and GNU Compiler development 🎓 Advanced Linux System Programming Intern at STMicroelectronics</h3>
+<h3 align="center">🚀 Embedded Software Engineer | Linux Enthusiast | Open Source Contributor 🔧 Skilled in C, Linux System Programming, Yocto, and Multi-threading 🛠️ Currently working on multi-threading programming course 🌱 Exploring OpenBSD and GNU Compiler development 🎓 Advanced Linux System Programming Intern at STMicroelectronics | Embedded Systems Inter at Siemens</h3> 
 
 - 💬 Ask me about **Embedded Systems, Linux System Programming & Digital IC Design**
 
